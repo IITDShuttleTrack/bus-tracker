@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bus-tracker/static/css/main.a676f204.css",
-    "main.js": "/bus-tracker/static/js/main.fd16d220.js",
+    "main.js": "/bus-tracker/static/js/main.8d2a0db3.js",
     "static/js/453.ebb80b0b.chunk.js": "/bus-tracker/static/js/453.ebb80b0b.chunk.js",
     "static/media/radar.gif": "/bus-tracker/static/media/radar.7b8225422ad49fc37a01.gif",
     "static/media/paras.jpg": "/bus-tracker/static/media/paras.0e694fd636b6a913fd3c.jpg",
@@ -22,11 +22,11 @@
     "static/media/map-search-outline-removebg-preview.png": "/bus-tracker/static/media/map-search-outline-removebg-preview.ab6faf71b08092af4dd1.png",
     "index.html": "/bus-tracker/index.html",
     "main.a676f204.css.map": "/bus-tracker/static/css/main.a676f204.css.map",
-    "main.fd16d220.js.map": "/bus-tracker/static/js/main.fd16d220.js.map",
+    "main.8d2a0db3.js.map": "/bus-tracker/static/js/main.8d2a0db3.js.map",
     "453.ebb80b0b.chunk.js.map": "/bus-tracker/static/js/453.ebb80b0b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a676f204.css",
-    "static/js/main.fd16d220.js"
+    "static/js/main.8d2a0db3.js"
   ]
 }
