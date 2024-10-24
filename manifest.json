@@ -1,6 +1,6 @@
 {
-  "short_name": "Bus Tracker",
-  "name": "Bus Tracker IITD",
+  "short_name": "ShuttleTrack",
+  "name": "IITD ShuttleTrack",
   "icons": [
     {
       "src": "favicon.ico",
